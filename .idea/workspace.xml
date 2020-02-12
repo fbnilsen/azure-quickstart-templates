@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="303022f3-8fbc-49b3-92a7-9f128b21ce57" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/README.md" afterPath="$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/azuredeploy.json" afterPath="$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/azuredeploy.json" />
     </list>
     <ignored path="azure-quickstart-templates.iws" />
@@ -24,11 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="azuredeploy.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="azuredeploy.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/azuredeploy.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45560747">
+            <state vertical-scroll-proportion="-17.727272">
               <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.19350474">
+              <caret line="11" column="211" selection-start-line="11" selection-start-column="211" selection-end-line="11" selection-end-column="211" />
               <folding />
             </state>
           </provider>
@@ -43,6 +54,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/azuredeploy.json" />
+        <option value="$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/README.md" />
       </list>
     </option>
   </component>
@@ -52,10 +64,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1818" />
-    <option name="y" value="242" />
-    <option name="width" value="1580" />
-    <option name="height" value="998" />
+    <option name="x" value="1737" />
+    <option name="y" value="455" />
+    <option name="width" value="2128" />
+    <option name="height" value="886" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -135,10 +147,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1818" y="242" width="1580" height="998" extended-state="0" />
+    <frame x="1737" y="455" width="2128" height="886" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40897268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30153403" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -169,8 +181,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/azuredeploy.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45560747">
+        <state vertical-scroll-proportion="-17.727272">
           <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19350474">
+          <caret line="11" column="211" selection-start-line="11" selection-start-column="211" selection-end-line="11" selection-end-column="211" />
           <folding />
         </state>
       </provider>
