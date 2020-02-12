@@ -25,21 +25,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="azuredeploy.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="azuredeploy.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/azuredeploy.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.727272">
-              <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.5416667">
+              <caret line="31" column="20" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19350474">
+            <state vertical-scroll-proportion="-5.296296">
               <caret line="11" column="211" selection-start-line="11" selection-start-column="211" selection-end-line="11" selection-end-column="211" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="azuredeploy.parameters.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/azuredeploy.parameters.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -53,8 +63,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/azuredeploy.json" />
         <option value="$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/README.md" />
+        <option value="$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/azuredeploy.json" />
       </list>
     </option>
   </component>
@@ -65,7 +75,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1737" />
-    <option name="y" value="455" />
+    <option name="y" value="456" />
     <option name="width" value="2128" />
     <option name="height" value="886" />
   </component>
@@ -147,7 +157,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1737" y="455" width="2128" height="886" extended-state="0" />
+    <frame x="1737" y="456" width="2128" height="886" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30153403" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -179,18 +189,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/azuredeploy.json">
+    <entry file="file://$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.727272">
-          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        <state vertical-scroll-proportion="-5.296296">
+          <caret line="11" column="211" selection-start-line="11" selection-start-column="211" selection-end-line="11" selection-end-column="211" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/README.md">
+    <entry file="file://$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/azuredeploy.parameters.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19350474">
-          <caret line="11" column="211" selection-start-line="11" selection-start-column="211" selection-end-line="11" selection-end-column="211" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/201-application-gateway-2vms-iis-ssl/azuredeploy.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5416667">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="20" />
           <folding />
         </state>
       </provider>
